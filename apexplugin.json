@@ -1,6 +1,6 @@
 {
     "name": "APEX Dynamic Dialog Title",
-    "version": "1.1",
+    "version": "23.01.12",
     "description": "<p>This Oracle APEX plug-in is used to set a dynamic modal dialog title on dialog render. Just add this Plug-in to a Dynamic Action that is fired on Page Load.</p><p><b>Important clarification: My work in the development team of Oracle APEX is in no way related to my open source projects or the plug-ins here on apex.world! All plug-ins are built in my spare time and are not supported by Oracle!</b></p>",
     "keywords": ["oracle", "apex", "plugin", "dynamic action", "modal dialog", "title"],
     "homepage": "https://github.com/RonnyWeiss/APEX-Dynamic-Dialog-Title",

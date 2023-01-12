@@ -61,7 +61,7 @@ wwv_flow_api.create_plugin(
 ,p_substitute_attributes=>true
 ,p_subscribe_plugin_settings=>true
 ,p_help_text=>'This plug-in is used to set a dynamic modal dialog title on dialog render. Just add this Plug-in to a Dynamic Action that is fired on Page Load.'
-,p_version_identifier=>'1.1'
+,p_version_identifier=>'23.01.12'
 ,p_about_url=>'https://github.com/RonnyWeiss/APEX-Dynamic-Dialog-Title'
 ,p_files_version=>10
 );
